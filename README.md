@@ -39,3 +39,15 @@ Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://t.me/rauf_1_0" target="_blank" rel="noopener noreferrer">
+    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/telegram" alt="Rauf Aliev's Telegram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:raufsaliev1@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/gmail" alt="Rauf Aliev's Gmail" />
+  </a>
+</p>
