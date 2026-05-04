@@ -45,8 +45,7 @@ Tools
 <p align="left">
   <a href="https://t.me/rauf_1_0" target="_blank" rel="noopener noreferrer">
     <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/telegram" alt="Rauf Aliev's Telegram" />
-  </a>
-  <br><br>
+  </a><br>
   <a href="mailto:raufsaliev1@gmail.com" target="_blank" rel="noopener noreferrer">
     <img align="center" height="32" width="32" src="https://cdn.simpleicons.org/gmail" alt="Rauf Aliev's Gmail" />
   </a>
